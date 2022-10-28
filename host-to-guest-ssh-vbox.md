@@ -32,4 +32,4 @@ So you can enter the vbox running:
 $ ssh root@127.0.0.1 -p 8022
 ```
 
-
+[reference: https://www.nakivo.com/blog/virtualbox-network-setting-guide/]
